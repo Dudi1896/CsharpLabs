@@ -21,12 +21,12 @@ namespace Lab1
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
-        private void button1_Click(object sender, EventArgs e)
+        private void goTeam_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Hello World");
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void exit_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Good Bye");
         }

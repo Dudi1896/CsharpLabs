@@ -42,7 +42,7 @@
             this.GoTeamBtn.TabIndex = 0;
             this.GoTeamBtn.Text = "GoTeam";
             this.GoTeamBtn.UseVisualStyleBackColor = false;
-            this.GoTeamBtn.Click += new System.EventHandler(this.button1_Click);
+            this.GoTeamBtn.Click += new System.EventHandler(this.goTeam_Click);
             // 
             // HelloLbl
             // 
@@ -63,7 +63,7 @@
             this.ExitBtn.TabIndex = 2;
             this.ExitBtn.Text = "Exit";
             this.ExitBtn.UseVisualStyleBackColor = false;
-            this.ExitBtn.Click += new System.EventHandler(this.button2_Click);
+            this.ExitBtn.Click += new System.EventHandler(this.exit_Click);
             // 
             // Form1
             // 
