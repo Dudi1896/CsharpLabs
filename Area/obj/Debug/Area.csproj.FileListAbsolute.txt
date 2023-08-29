@@ -1,0 +1,10 @@
+C:\Users\udemb\sandbox\VisualStudio\CsharpLabs\Area\bin\Debug\Area.exe.config
+C:\Users\udemb\sandbox\VisualStudio\CsharpLabs\Area\bin\Debug\Area.exe
+C:\Users\udemb\sandbox\VisualStudio\CsharpLabs\Area\bin\Debug\Area.pdb
+C:\Users\udemb\sandbox\VisualStudio\CsharpLabs\Area\obj\Debug\Area.csproj.AssemblyReference.cache
+C:\Users\udemb\sandbox\VisualStudio\CsharpLabs\Area\obj\Debug\Area.Properties.Resources.resources
+C:\Users\udemb\sandbox\VisualStudio\CsharpLabs\Area\obj\Debug\Area.csproj.GenerateResource.cache
+C:\Users\udemb\sandbox\VisualStudio\CsharpLabs\Area\obj\Debug\Area.csproj.CoreCompileInputs.cache
+C:\Users\udemb\sandbox\VisualStudio\CsharpLabs\Area\obj\Debug\Area.exe
+C:\Users\udemb\sandbox\VisualStudio\CsharpLabs\Area\obj\Debug\Area.pdb
+C:\Users\udemb\sandbox\VisualStudio\CsharpLabs\Area\obj\Debug\Area.Area.resources
