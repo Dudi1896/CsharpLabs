@@ -16,5 +16,19 @@ namespace Lab1
         {
             InitializeComponent();
         }
+        /// <summary>
+        /// This is a Message Box
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hello World");
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Good Bye");
+        }
     }
 }
